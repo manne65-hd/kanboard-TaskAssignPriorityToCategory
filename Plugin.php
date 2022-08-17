@@ -25,7 +25,7 @@ class Plugin extends Base
 
     public function getPluginDescription()
     {
-        return t('Adds an automatic action, that allows you to assign a priority based on a category');
+        return t('NEW automatic action: Assign automatically a priority based on a category');
     }
 
     public function getPluginAuthor()
