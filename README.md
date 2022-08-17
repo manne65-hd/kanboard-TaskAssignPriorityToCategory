@@ -10,12 +10,12 @@ Screenshots
 
 #### Creating the action
 
-![01-CreateAction](https://AddRealLinkLater.png)
+![01-CreateAction](https://user-images.githubusercontent.com/48651533/185162822-80c644d2-f078-4063-aade-7146c430d280.png)
 
 
 #### List view for automatic actions
 
-![02-ListAction](https://AddRealLinkLater.png)
+![02-ListAction](https://user-images.githubusercontent.com/48651533/185163117-553fa507-547e-42af-987a-3dd2101e772f.png)
 
 
 Author
